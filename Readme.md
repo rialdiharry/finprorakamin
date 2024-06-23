@@ -8,12 +8,23 @@
 2. Pelanggan mayoritas adalah Returning_Visitor sebanyak 85.5%
 ![Pic2](https://github.com/rialdiharry/finprorakamin/assets/172503212/8715df5a-732a-4e6c-9493-654daa371fb3)
 
-3. kunjungan pelanggan mayoritas diluar weekend 
+3. Kunjungan pelanggan mayoritas diluar weekend 
+![Pic3](https://github.com/rialdiharry/finprorakamin/assets/172503212/6af68202-3818-4d1e-ab98-000d95c12be8)
+
 4. Dari 12946 data, sebanyak 10938 atau 85.5% tidak melakukan pembelian sisanya 2008 atau 15.5% yang melakukan pembelian  
-5. Sistem operaasi yang banyak digunakan oleh pengunjung yaitu sistem operasi 2
+![Pic4](https://github.com/rialdiharry/finprorakamin/assets/172503212/df997858-005e-4f07-b0f4-66aaa0294ae0)
+
+5. Sistem operasi yang banyak digunakan oleh pengunjung yaitu sistem operasi 2
+![Pic5](https://github.com/rialdiharry/finprorakamin/assets/172503212/0a0f9b14-bd37-44e7-8d1d-2716f4f9de61)
+
 6. Browser yang banyak digunakan oleh pengunjung yaitu browser 2
-7. Region pengunjung banyak berasal dari region 1
+![Pic6](https://github.com/rialdiharry/finprorakamin/assets/172503212/19d8eb66-3a47-46f8-b1f0-b363dcf8897d)
+
+7. Region pengunjung terbanyak berasal dari region 1
+![Pic7](https://github.com/rialdiharry/finprorakamin/assets/172503212/f5c62589-8a6a-4ee5-b9a5-c90081b66219)
+
 8. Traffic type pengunjung terbanyak yaitu traffic type 2
+![Pic8](https://github.com/rialdiharry/finprorakamin/assets/172503212/2a532da8-2991-4cb0-a4e7-2319af2bb8c6)
 
 ### Kesimpulan Data Deskriptif :
 
