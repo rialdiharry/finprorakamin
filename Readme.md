@@ -1,11 +1,13 @@
 ## Insight
 
-### Insight Data Desktitif : 
+### Insight Data Deskriptif : 
 
 1. Jumlah pengunjung web tertinggi pada bulan Mei
 ![Pic1](https://github.com/rialdiharry/finprorakamin/assets/172503212/2ad11137-38df-45a7-ab76-ea02bc834f42)
 
 2. Pelanggan mayoritas adalah Returning_Visitor sebanyak 85.5%
+![Pic2](https://github.com/rialdiharry/finprorakamin/assets/172503212/8715df5a-732a-4e6c-9493-654daa371fb3)
+
 3. kunjungan pelanggan mayoritas diluar weekend 
 4. Dari 12946 data, sebanyak 10938 atau 85.5% tidak melakukan pembelian sisanya 2008 atau 15.5% yang melakukan pembelian  
 5. Sistem operaasi yang banyak digunakan oleh pengunjung yaitu sistem operasi 2
@@ -13,7 +15,7 @@
 7. Region pengunjung banyak berasal dari region 1
 8. Traffic type pengunjung terbanyak yaitu traffic type 2
 
-### Kesimpulan Data Deskritif :
+### Kesimpulan Data Deskriptif :
 
 1. Terdapat beberapa kolom dengan nilai null yang lebih dari 1-2% (Administrative_Duration, ProductRelated_Duration, OperatingSystems) handling missing value, dan yang <2% akan dilakukan drop data (Administrative, Administrative)
 Semua kolom numerik skew (dilihat dari perbedaan antara mean > median)
