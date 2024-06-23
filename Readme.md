@@ -3,6 +3,8 @@
 ### Insight Data Desktitif : 
 
 1. Jumlah pengunjung web tertinggi pada bulan Mei
+![Pic1](https://github.com/rialdiharry/finprorakamin/assets/172503212/2ad11137-38df-45a7-ab76-ea02bc834f42)
+
 2. Pelanggan mayoritas adalah Returning_Visitor sebanyak 85.5%
 3. kunjungan pelanggan mayoritas diluar weekend 
 4. Dari 12946 data, sebanyak 10938 atau 85.5% tidak melakukan pembelian sisanya 2008 atau 15.5% yang melakukan pembelian  
